@@ -12,3 +12,4 @@ C:\Users\ainur\OneDrive\Рабочий стол\Учеба\Csharp\Lesson2\Task1\
 C:\Users\ainur\OneDrive\Рабочий стол\Учеба\Csharp\Lesson2\Task1\obj\Debug\net8.0\Task1.pdb
 C:\Users\ainur\OneDrive\Рабочий стол\Учеба\Csharp\Lesson2\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
 C:\Users\ainur\OneDrive\Рабочий стол\Учеба\Csharp\Lesson2\Task1\obj\Debug\net8.0\ref\Task1.dll
+C:\Users\ainur\OneDrive\Рабочий стол\Учеба\Csharp\Lesson2\Task1\obj\Debug\net8.0\Task1.sourcelink.json
